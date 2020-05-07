@@ -32,7 +32,4 @@ Open the .exe file and click on `Add Files' to add those files you want to check
 When the program has finished running, the results will be saved in a .xls file which will appear in the program folder.
 
 Open this file and check all the worksheets inside for all the images extracted along with any of their undeleted data that may be visible. One image is saved per worksheet. 
-
-
-Please send any comments, questions etc to info@inquiris.org
  
